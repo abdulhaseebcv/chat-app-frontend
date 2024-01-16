@@ -191,3 +191,8 @@ body {
   color: #43a047;
 }
 
+@media (max-width:450px){
+  .chat-window {
+    max-width: 350px;
+  }
+}
